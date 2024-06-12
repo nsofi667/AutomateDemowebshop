@@ -24,16 +24,16 @@ public class HomePage {
 		@FindBy(partialLinkText="Books")
 		private WebElement booksLink;
 		
-		@FindBy(partialLinkText="Computers ")
+		@FindBy(partialLinkText="Computers")
 		private WebElement computersLink;
 		
-		@FindBy(partialLinkText="Electronics ")
+		@FindBy(partialLinkText="Electronics")
 		private WebElement electronicsLink;
 		
-		@FindBy(partialLinkText="Apparel & Shoes ")
+		@FindBy(partialLinkText="Apparel & Shoes")
 		private WebElement apparelLink;
 		
-		@FindBy(partialLinkText="Digital downloads ")
+		@FindBy(partialLinkText="Digital downloads")
 		private WebElement digitalLink;
 		
 		@FindBy(partialLinkText="Gift Cards")
